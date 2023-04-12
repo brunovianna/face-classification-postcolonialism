@@ -1,3 +1,8 @@
+# Adapted for Post-colonialism piece
+
+For Singular exhibition:
+https://www.researchcatalogue.net/view/1408828/1408829
+
 # Gender and Race Classification with Face Images
 
 Let's train a simple face attribute classification model! The dataset we are going to use contains 73 different face attributes, but we are only going to focus on gender and race. Here are some sample results of the trained model. (For now, the dataset I used has only "White," "Black," and "Asian" faces. I will try to add more races in future)
